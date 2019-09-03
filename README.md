@@ -1,6 +1,9 @@
 # fight-and-rip
 Code done for an online AI contest on CodinGame.
 
+"LigueOr" is the file submitted at the end of the contest.  
+Other files contains the same code but with more readable separation.
+
 # Result
 8 on 71 participant from Japan.  
 103 on 2160 participant from all over the world.
