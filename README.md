@@ -7,6 +7,7 @@ Code done for an online AI contest on CodinGame.
 
 # Link
 My username is "Ninja".
-Japan leaderboard: https://www.codingame.com/leaderboards/challenge/a-code-of-ice-and-fire/country/jp  
-Global leaderboard: https://www.codingame.com/leaderboards/challenge/a-code-of-ice-and-fire/global
-See the AI in action: https://www.codingame.com/replay/391528208
+[Japan leaderboard](https://www.codingame.com/leaderboards/challenge/a-code-of-ice-and-fire/country/jp).  
+[Global leaderboard](https://www.codingame.com/leaderboards/challenge/a-code-of-ice-and-fire/global).  
+[See the AI in action](https://www.codingame.com/replay/391528208).  
+[Try to play yourself](https://www.codingame.com/multiplayer/bot-programming/a-code-of-ice-and-fire).
