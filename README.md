@@ -2,7 +2,7 @@
 Code done for an online AI contest on CodinGame.
 
 "LigueOr" is the file submitted at the end of the contest.  
-Other files contains the same code but with more readable separation.
+Others files contains the same code but with more readable separation.
 
 # Result
 8 on 71 participant from Japan.  
